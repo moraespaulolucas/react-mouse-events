@@ -1,0 +1,15 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1,
+p {
+  font-family: Lato;
+}
+
+button {
+  padding: 0.1rem 0.5rem;
+}
